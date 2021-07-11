@@ -1,3 +1,3 @@
-# Sensor barométrico BMP280 com Arduino. Mostra temperatura, pressão e altitude no LCD.
+# Sensor barométrico BMP280 com Arduino. Mostra temperatura, pressão e altitude no LCD
 
-## Feito com PlatformIO.
+## Feito com PlatformIO
